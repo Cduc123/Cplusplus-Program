@@ -1,7 +1,5 @@
 # Cplusplus-Program
 
-# Grocery Analyzer
-
 # Project Summary
 The Grocery Analyzer is a C++ program that reads grocery item data from a file and allows users to analyze the frequency of items through a menu-driven interface. This tool simplifies grocery data analysis by providing options to check the frequency of specific items, list all item counts, display a histogram of frequencies, and back up data. It addresses the problem of making grocery data more accessible and easy to interact with for users.
 
